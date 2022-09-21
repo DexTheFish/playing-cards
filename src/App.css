@@ -1,5 +1,5 @@
 html {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   font-size: calc(10px + 2vmin);
   color: white;
   text-align: center;
@@ -10,7 +10,7 @@ html {
   margin: 1rem;
   pointer-events: none;
   border-radius: 35%;
-  /* box-shadow: 0 0 0.5rem gray; */
+  box-shadow: 0 0 0.5rem gray;
 }
 
 .App-header {

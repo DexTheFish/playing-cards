@@ -7,7 +7,7 @@ import React, {useState} from 'react';
 function App() {
   const [state, setState] = useState({
     suit: "spades",
-    rank: "ace"
+    rank: "K"
   });
   return (
     <div className="App">
