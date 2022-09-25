@@ -23,7 +23,7 @@ html {
 .card {
   height: 50vh;
   width: 50vw;
-  background-color: grey;
+  /* background-color: grey; */
   width:50%;
   margin: 2rem;
 }
